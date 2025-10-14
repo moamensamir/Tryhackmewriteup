@@ -1,6 +1,6 @@
 # Linux Fundamentals — Part 2
 
-A beginner-friendly walkthrough for the **LinuxFundamentalsPart2** room (TryHackMe style). Copy this into a `README.md` for GitHub.
+A beginner-friendly walkthrough for the **LinuxFundamentalsPart2** room (TryHackMe style).
 
 ---
 
