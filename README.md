@@ -1,13 +1,28 @@
-# TryHackMe Writeups
+# TryHackMe Writeups — Complete Room Solutions & Notes
 
-This repo is your single place to store every TryHackMe room you finish: writeups, commands, flags, PoCs, screenshots, and quick notes. Use the structure and templates below to keep everything consistent and easy to share with recruiters or teammates.
+Welcome to my TryHackMe Writeups Repository!
+This repo contains all the rooms I’ve completed on TryHackMe
+ — with step-by-step walkthroughs, commands, flags, and notes.
+It’s also designed as a template for anyone who wants to document their own TryHackMe progress publicly.
 
-Quick: copy this file to README.md in your repo root and create a rooms/ folder for each room.
+# Purpose
 
-Why use this repo
+This repository serves two main goals:
 
-Keeps all writeups in one searchable place.
+Personal progress tracker:
+Every time I complete a room, I add a folder here with a short write-up, commands used, and flags found.
 
-Makes a clean portfolio for jobs or bug-bounty submissions.
+🌐 For Visitors
 
-Forces reproducible steps so you (or anyone else) can re-run your work later.
+This repo is meant to help:
+
+Beginners learning Linux and cybersecurity basics
+
+CTF players who want example room walkthroughs
+
+Others who want a simple structure for their own TryHackMe writeups
+
+# Author
+
+Maintained by Moamen Samir — Cybersecurity learner & TryHackMe explorer.
+If you find this repo useful, give it a ⭐ to support!
