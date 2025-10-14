@@ -1,6 +1,6 @@
 # Linux Fundamentals — Part 1
 
-A beginner-friendly guide and walkthrough for the **LinuxFundamentalsPart1** room (TryHackMe style). This README is formatted for GitHub so you can copy it into a `README.md` file and share with others.
+A beginner-friendly guide and walkthrough for the **LinuxFundamentalsPart1** room (TryHackMe style).
 
 ---
 
