@@ -49,4 +49,12 @@ After getting permission, we block the IP in our firewall.
 
 ---
 
-### Q3: To whom did you escalate t
+### Q3: To whom did you escalate the alert with the malicious IP?
+
+**Answer:** **Will Griffin**
+
+---
+
+### Q4: What message did you get after blocking the IP address on the firewall?
+
+**Answer:** **THM{until-we-meet-again}**
